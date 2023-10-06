@@ -1,5 +1,5 @@
 # Awesome-Deep-Learning-in-Spatial-Transcriptomics
-Awesome Deep Learning Works in Spatial Transcriptomics
+Awesome Deep Learning Methods in Spatial Transcriptomics
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
