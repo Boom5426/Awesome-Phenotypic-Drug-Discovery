@@ -13,8 +13,10 @@ Please refer to [this page]().
 ## Papers
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):
 
+- <a name="BLEEP"></a>**[BLEEP]** Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning (**Arxiv**) [[paper]([https://arxiv.org/pdf/2306.01859.pdf](https://academic.oup.com/nar/article/50/22/e131/6761985?login=false))] [[code](https://github.com/bowang-lab/BLEEP)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/BLEEP.svg?logo=github&label=Stars)
 
 - <a name="DeepST"></a>**[DeepST]** DeepST: identifying spatial domains in spatial transcriptomics by deep learning (**Nucleic Acids Research**) [[paper](https://arxiv.org/pdf/2306.01859.pdf)] [[code](https://github.com/bowang-lab/BLEEP)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/BLEEP.svg?logo=github&label=Stars)
+
 
 - <a name="Hist2ST"></a>**[Hist2ST]** Spatial transcriptomics prediction from histology jointly through Transformer and graph neural networks (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article-abstract/23/5/bbac297/6645485?redirectedFrom=fulltext&login=false)] [[code](https://github.com/JiangBioLab/DeepST/tree/main)]![GitHub stars](https://img.shields.io/github/stars/JiangBioLab/DeepST.svg?logo=github&label=Stars)
 
