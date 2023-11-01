@@ -15,10 +15,10 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name="BLEEP"></a>**[BLEEP]** Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning (**Arxiv**) [[paper]([https://arxiv.org/pdf/2306.01859.pdf](https://academic.oup.com/nar/article/50/22/e131/6761985?login=false))] [[code](https://github.com/bowang-lab/BLEEP)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/BLEEP.svg?logo=github&label=Stars)
 
-- <a name="DeepST"></a>**[DeepST]** DeepST: identifying spatial domains in spatial transcriptomics by deep learning (**Nucleic Acids Research**) [[paper](https://arxiv.org/pdf/2306.01859.pdf)] [[code](https://github.com/bowang-lab/BLEEP)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/BLEEP.svg?logo=github&label=Stars)
+- <a name="DeepST"></a>**[DeepST]** DeepST: identifying spatial domains in spatial transcriptomics by deep learning (**Nucleic Acids Research**) [[paper](https://arxiv.org/pdf/2306.01859.pdf)] [[code](https://github.com/JiangBioLab/DeepST)]![GitHub stars](https://img.shields.io/github/stars/JiangBioLab/DeepST.svg?logo=github&label=Stars)
 
 
-- <a name="Hist2ST"></a>**[Hist2ST]** Spatial transcriptomics prediction from histology jointly through Transformer and graph neural networks (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article-abstract/23/5/bbac297/6645485?redirectedFrom=fulltext&login=false)] [[code](https://github.com/JiangBioLab/DeepST/tree/main)]![GitHub stars](https://img.shields.io/github/stars/JiangBioLab/DeepST.svg?logo=github&label=Stars)
+- <a name="Hist2ST"></a>**[Hist2ST]** Spatial transcriptomics prediction from histology jointly through Transformer and graph neural networks (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article-abstract/23/5/bbac297/6645485?redirectedFrom=fulltext&login=false)] [[code](https://github.com/biomed-AI/Hist2ST)]![GitHub stars](https://img.shields.io/github/stars/biomed-AI/Hist2ST.svg?logo=github&label=Stars)
 
 
 - <a name="HisToGene"></a>**[HisToGene]** Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors (**Biorxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1.full.pdf)] [[code](https://github.com/maxpmx/HisToGene)]![GitHub stars](https://img.shields.io/github/stars/maxpmx/HisToGene.svg?logo=github&label=Stars)
