@@ -34,4 +34,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name="CytoSPACE"></a>**[CytoSPACE]** High-resolution alignment of single-cell and spatial transcriptomes with CytoSPACE (**Nature Biotechnology**) [[paper](https://www.nature.com/articles/s41587-023-01697-9)] [[code](https://github.com/digitalcytometry/cytospace)]![GitHub stars](https://img.shields.io/github/stars/digitalcytometry/cytospace.svg?logo=github&label=Stars)
 
+- <a name="SpatialScope"></a>**[SpatialScope]** Integrating spatial and single-cell transcriptomics data using deep generative models with SpatialScope (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-43629-w)] [[code](https://github.com/YangLabHKUST/SpatialScope)]![GitHub stars](https://img.shields.io/github/stars/YangLabHKUST/SpatialScope.svg?logo=github&label=Stars)
+
 
