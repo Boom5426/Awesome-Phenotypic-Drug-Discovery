@@ -28,3 +28,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ## Datasets
+
+ -  human HER2-positive breast tumor ST data https://github.com/almaan/her2st/.
+ -  human cutaneous squamous cell carcinoma 10x Visium data (GSE144240).
