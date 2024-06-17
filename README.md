@@ -24,6 +24,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name="BLEEP"></a>**[BLEEP]** Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning (**Arxiv**) [[paper]([https://arxiv.org/pdf/2306.01859.pdf](https://academic.oup.com/nar/article/50/22/e131/6761985?login=false))] [[code](https://github.com/bowang-lab/BLEEP)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/BLEEP.svg?logo=github&label=Stars)
 
+- <a name="DeepPT"></a>**[DeepPT]** Prediction of cancer treatment response from histopathology images through imputed transcriptomics (**Arxiv**) [[paper](https://ascopubs.org/doi/10.1200/JCO.2023.41.16_suppl.1551)] [[code](https://github.com/PangeaResearch/enlight-deeppt-data)]![GitHub stars](https://img.shields.io/github/stars/PangeaResearch/enlight-deeppt-data.svg?logo=github&label=Stars)
+
+
 ### 2022 and before
 
 - <a name="Hist2ST"></a>**[Hist2ST]** Spatial transcriptomics prediction from histology jointly through Transformer and graph neural networks (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article-abstract/23/5/bbac297/6645485?redirectedFrom=fulltext&login=false)] [[code](https://github.com/biomed-AI/Hist2ST)]![GitHub stars](https://img.shields.io/github/stars/biomed-AI/Hist2ST.svg?logo=github&label=Stars)
