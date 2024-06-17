@@ -13,6 +13,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### 2024
 - <a name="HGGEP"></a>**[HGGEP]** Gene Expression Prediction from Histology Images via Hypergraph Neural Networks (**Arxiv**) [[paper](https://github.com/QSong-github/HGGEP)] [[code](https://github.com/QSong-github/HGGEP)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/HGGEP.svg?logo=github&label=Stars)
 
+<!-- 
+- <a name="IGI-DL"></a>**[IGI-DL]** Harnessing TME depicted by histological images to improve cancer prognosis through a deep learning system (**Cell Reports Medicine**) [[paper](https://pubmed.ncbi.nlm.nih.gov/38697103/)] [[code](https://github.com/ruitian-olivia/IGI-DL)]![GitHub stars](https://img.shields.io/github/stars/ruitian-olivia/IGI-DL.svg?logo=github&label=Stars)
+
+-->
+
+
 
 ### 2023
 
