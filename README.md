@@ -1,5 +1,5 @@
-# Awesome-Deep-Learning-in-Spatial-Transcriptomics
-Awesome Deep Learning Methods in Spatial Transcriptomics
+# Awesome-Gene-Expression-Prediction-Methods-based-Histology-Images
+Awesome Gene Expression Prediction Methods based Histology Images
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
