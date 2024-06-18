@@ -29,6 +29,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name="DeepPT"></a>**[DeepPT]** Prediction of cancer treatment response from histopathology images through imputed transcriptomics (**Journal of Clinical Oncology**) [[paper](https://ascopubs.org/doi/10.1200/JCO.2023.41.16_suppl.1551)] [[code](https://github.com/PangeaResearch/enlight-deeppt-data)]![GitHub stars](https://img.shields.io/github/stars/PangeaResearch/enlight-deeppt-data.svg?logo=github&label=Stars)
 
+- <a name="SEPAL"></a>**[SEPAL]** SEPAL: Spatial Gene Expression Prediction from Local Graphs (**ICCV 2023**) [[paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/html/Mejia_SEPAL_Spatial_Gene_Expression_Prediction_from_Local_Graphs_ICCVW_2023_paper.html)] [[code](https://github.com/BCV-Uniandes/SEPAL)]![GitHub stars](https://img.shields.io/github/stars/BCV-Uniandes/SEPAL.svg?logo=github&label=Stars)
 
 ### 2022 and before
 
