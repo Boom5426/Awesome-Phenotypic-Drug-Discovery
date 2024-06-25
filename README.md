@@ -1,4 +1,4 @@
-# Awesome Image-based Phenotypic Drug Discovery
+![image](https://github.com/Boli-trainee/Awesome-Image-based-Phenotypic-Drug-Discovery/assets/83391363/1539122d-aae7-4ca8-9204-4cea6a446f80)# Awesome Image-based Phenotypic Drug Discovery
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
@@ -32,8 +32,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### 2022
 
-- <a name=""></a> Morphology and gene expression profiling provide complementary information for mapping cell state (**Cell Systems**) [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00402-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471222004021%3Fshowall%3Dtrue)]
+- <a name=""></a> **[Datasets and Benchmark]** High-dimensional gene expression and morphology profiles of cells across 28,000 genetic and chemical perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-022-01667-0)] [[code](https://github.com/carpenter-singh-lab/2022_Haghighi_NatureMethods)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2022_Haghighi_NatureMethods.svg?logo=github&label=Stars)
 
+- <a name=""></a> Morphology and gene expression profiling provide complementary information for mapping cell state (**Cell Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S2405471222004021)] [[code](https://github.com/broadinstitute/lincs-profiling-complementarity/tree/master)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/lincs-profiling-complementarity/tree/master.svg?logo=github&label=Stars)
+
+- <a name=""></a> High-dimensional gene expression and morphology profiles of cells across 28,000 genetic and chemical perturbations (**Cell Systems**) [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00402-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471222004021%3Fshowall%3Dtrue)]
 
 
 
