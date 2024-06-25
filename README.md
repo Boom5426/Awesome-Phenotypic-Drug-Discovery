@@ -1,4 +1,4 @@
-![image](https://github.com/Boli-trainee/Awesome-Image-based-Phenotypic-Drug-Discovery/assets/83391363/1539122d-aae7-4ca8-9204-4cea6a446f80)# Awesome Image-based Phenotypic Drug Discovery
+# Awesome Image-based Phenotypic Drug Discovery
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
