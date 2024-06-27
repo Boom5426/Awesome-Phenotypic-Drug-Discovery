@@ -43,7 +43,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 
-### Awesome Gene Expression Prediction Methods based Histology Images
+## Awesome Gene Expression Prediction Methods based Histology Images
 
 - <a name="HGGEP"></a>**[HGGEP]** Gene Expression Prediction from Histology Images via Hypergraph Neural Networks (**Arxiv**) [[paper](https://github.com/QSong-github/HGGEP)] [[code](https://github.com/QSong-github/HGGEP)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/HGGEP.svg?logo=github&label=Stars)
 
