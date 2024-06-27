@@ -18,6 +18,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### 2023
 
+- <a name=""></a>**[Survey]** Deep learning in image-based phenotypic drug discovery (**Trends in Cell Biology**) [[paper](https://www.cell.com/trends/cell-biology/abstract/S0962-8924(22)00262-8)]
+
 - <a name=""></a>**[Survey]** Artificial intelligence for high content imaging in drug discovery (**Current Opinion in Structural Biology**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)]
 
 - <a name=""></a>**[Multimodal]** Multimodal data fusion for cancer biomarker discovery with deep learning (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-023-00633-5)]
