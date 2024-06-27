@@ -35,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> **[Dataset]** Integrating deep learning and unbiased automated high-content screening to identify complex disease signatures in human fibroblasts (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-022-28423-4)] [[dataset](https://nyscf.org/open-source/nyscf-adpd/)]
 
-
+- <a name=""></a> Integrating cell morphology with gene expression and chemical structure to aid mitochondrial toxicity detection (**Communications Biology**) [[paper](https://www.nature.com/articles/s42003-022-03763-5)] [[code](https://github.com/srijitseal/Using-Cell-Morphology-Gene-Expression-Features-and-Structural-Fingerprints-to-Aid-Detection-of-Mito/)]![GitHub stars](https://img.shields.io/github/stars/srijitseal/Using-Cell-Morphology-Gene-Expression-Features-and-Structural-Fingerprints-to-Aid-Detection-of-Mito.svg?logo=github&label=Stars)
 
 
 ## Awesome Gene Expression Prediction Methods based Histology Images
