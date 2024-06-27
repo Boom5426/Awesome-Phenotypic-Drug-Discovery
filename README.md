@@ -2,11 +2,6 @@
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
-# Contents
-* [Papers](##papers)
-* [Datasets](##datasets)
-
-
 ## Papers
 
 ### 2024
@@ -38,6 +33,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> Morphology and gene expression profiling provide complementary information for mapping cell state (**Cell Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S2405471222004021)] [[code](https://github.com/broadinstitute/lincs-profiling-complementarity/tree/master)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/lincs-profiling-complementarity.svg?logo=github&label=Stars)
 
+- <a name=""></a> **[Dataset]** Integrating deep learning and unbiased automated high-content screening to identify complex disease signatures in human fibroblasts (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-022-28423-4)] [[dataset](https://nyscf.org/open-source/nyscf-adpd/)]
 
 
 
