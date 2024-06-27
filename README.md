@@ -38,7 +38,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> Morphology and gene expression profiling provide complementary information for mapping cell state (**Cell Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S2405471222004021)] [[code](https://github.com/broadinstitute/lincs-profiling-complementarity/tree/master)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/lincs-profiling-complementarity.svg?logo=github&label=Stars)
 
-- <a name=""></a> High-dimensional gene expression and morphology profiles of cells across 28,000 genetic and chemical perturbations (**Cell Systems**) [[paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(22)00402-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471222004021%3Fshowall%3Dtrue)]
 
 
 
