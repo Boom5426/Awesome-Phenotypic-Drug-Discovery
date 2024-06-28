@@ -5,7 +5,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Datasets
 
 - <a name=""></a>**[JUMP-Cell Painting Consortium]** [[Link](https://jump-cellpainting.broadinstitute.org/)]
-- <a name=""></a>**[Cell Painting Gallery]** [[Link](https://registry.opendata.aws/cellpainting-gallery/)]
+- <a name=""></a>**[Cell Painting Gallery]** [[Link](https://registry.opendata.aws/cellpainting-gallery/)]  [[Overview](https://github.com/broadinstitute/cellpainting-gallery/blob/main/README.md)] 
 - <a name=""></a>**[NYSCF Automated Deep Phenotyping Dataset (ADPD)]** [[Link](https://nyscf.org/open-source/nyscf-adpd/)]
 
 ## Papers
