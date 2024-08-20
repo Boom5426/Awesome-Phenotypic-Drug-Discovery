@@ -1,22 +1,30 @@
-# Awesome Image-based Phenotypic Drug Discovery
+# Awesome Image-based Cell Profiling
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
 ## Datasets
 
 - <a name=""></a>**[JUMP-Cell Painting Consortium]** [[Link](https://jump-cellpainting.broadinstitute.org/)]
-- <a name=""></a>**[Cell Painting Gallery]** [[Link](https://registry.opendata.aws/cellpainting-gallery/)]  [[Overview](https://github.com/broadinstitute/cellpainting-gallery/blob/main/README.md)] 
+- <a name=""></a>**[Cell Painting Gallery]** [[Link](https://registry.opendata.aws/cellpainting-gallery/)]  [[Overview](https://github.com/broadinstitute/cellpainting-gallery/blob/main/README.md)]  [[Overview](https://cellpainting-gallery.s3.amazonaws.com/index.html)]
 - <a name=""></a>**[NYSCF Automated Deep Phenotyping Dataset (ADPD)]** [[Link](https://nyscf.org/open-source/nyscf-adpd/)]
+
+
+## Tools
+
+- <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
+
+- <a name=""></a> **[Pycytominer]** Reproducible image-based profiling with Pycytominer (**Arxiv**) [[paper](https://arxiv.org/abs/2311.13417)] [[code](https://github.com/cytomining/pycytominer)]![GitHub stars](https://img.shields.io/github/stars/cytomining/pycytominer.svg?logo=github&label=Stars)
+
 
 ## Papers
 
 ### 2024
 
+- <a name=""></a>**[Batch Correction]** Evaluating batch correction methods for image-based cell profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-50613-5)] [[code](https://github.com/carpenter-singh-lab/2023_Arevalo_BatchCorrection)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2023_Arevalo_BatchCorrection.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[Datasets]** JUMP Cell Painting dataset: morphological impact of 136,000 chemical and genetic perturbations (**Arxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2023.03.23.534023v2)] [[dataset](https://registry.opendata.aws/cellpainting-gallery/)]
 
 - <a name=""></a>**[Datasets and Benchmark]** Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02241-6)] [[code](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods/tree/main)]![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/2024_Chandrasekaran_NatureMethods.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
 
 
 ### 2023
@@ -31,7 +39,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> Deep representation learning determines drug mechanism of action from cell painting images (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00060e)] [[code](https://github.com/pfizer-opensource/moa-profiler)]![GitHub stars](https://img.shields.io/github/stars/pfizer-opensource/moa-profiler.svg?logo=github&label=Stars)
 
-- <a name=""></a> **[Pycytominer]** Reproducible image-based profiling with Pycytominer (**Arxiv**) [[paper](https://arxiv.org/abs/2311.13417)] [[code](https://github.com/cytomining/pycytominer)]![GitHub stars](https://img.shields.io/github/stars/cytomining/pycytominer.svg?logo=github&label=Stars)
 
 
 
