@@ -57,6 +57,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a> Integrating cell morphology with gene expression and chemical structure to aid mitochondrial toxicity detection (**Communications Biology**) [[paper](https://www.nature.com/articles/s42003-022-03763-5)] [[code](https://github.com/srijitseal/Using-Cell-Morphology-Gene-Expression-Features-and-Structural-Fingerprints-to-Aid-Detection-of-Mito/)]![GitHub stars](https://img.shields.io/github/stars/srijitseal/Using-Cell-Morphology-Gene-Expression-Features-and-Structural-Fingerprints-to-Aid-Detection-of-Mito.svg?logo=github&label=Stars)
 
 
+<!-- 
 ## Image2Gene: Awesome Gene Expression Prediction Methods based Histology Images
 
 - <a name="HGGEP"></a>**[HGGEP]** Gene Expression Prediction from Histology Images via Hypergraph Neural Networks (**Arxiv**) [[paper](https://github.com/QSong-github/HGGEP)] [[code](https://github.com/QSong-github/HGGEP)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/HGGEP.svg?logo=github&label=Stars)
@@ -81,4 +82,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Image2Gene: Datasets
 
  -  human HER2-positive breast tumor ST data https://github.com/almaan/her2st/.
- -  human cutaneous squamous cell carcinoma 10x Visium data (GSE144240).
+ -  human cutaneous squamous cell carcinoma 10x Visium data (GSE144240).-->
