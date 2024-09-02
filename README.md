@@ -15,6 +15,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> **[Pycytominer]** Reproducible image-based profiling with Pycytominer (**Arxiv**) [[paper](https://arxiv.org/abs/2311.13417)] [[code](https://github.com/cytomining/pycytominer)]![GitHub stars](https://img.shields.io/github/stars/cytomining/pycytominer.svg?logo=github&label=Stars)
 
+- <a name=""></a> **[CellProfiler]** Free open-source software designed to enable biologists without training in computer vision or programming to quantitatively measure phenotypes from thousands of images automatically. [[code](https://github.com/CellProfiler)]![GitHub stars](https://img.shields.io/github/stars/CellProfiler/CellProfiler.svg?logo=github&label=Stars)
+
 
 ## Papers
 
