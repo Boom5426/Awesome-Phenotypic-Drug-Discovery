@@ -46,7 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### 2022
 
-- <a name=""></a> **[Datasets and Benchmark]** High-dimensional gene expression and morphology profiles of cells across 28,000 genetic and chemical perturbations (**Cancer Cell**) [[paper](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1535610822003178%3Fshowall%3Dtrue)] [[code](https://github.com/mahmoodlab/PORPOISE)]![GitHub stars](https://img.shields.io/github/stars/mahmoodlab/PORPOISE.svg?logo=github&label=Stars)
+- <a name=""></a> **[Multimodal deep learning]** Pan-Cancer Integrative Histology-Genomic Analysis via Multimodal Deep Learning (**Cancer Cell**) [[paper](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8)] [[code](https://github.com/mahmoodlab/PORPOISE)]![GitHub stars](https://img.shields.io/github/stars/mahmoodlab/PORPOISE.svg?logo=github&label=Stars)
 
 - <a name=""></a> **[Datasets and Benchmark]** Pan-cancer integrative histology-genomic analysis via multimodal deep learning (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-022-01667-0)] [[code](https://github.com/carpenter-singh-lab/2022_Haghighi_NatureMethods)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2022_Haghighi_NatureMethods.svg?logo=github&label=Stars)
 
