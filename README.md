@@ -48,7 +48,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> **[Multimodal deep learning]** Pan-Cancer Integrative Histology-Genomic Analysis via Multimodal Deep Learning (**Cancer Cell**) [[paper](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8)] [[code](https://github.com/mahmoodlab/PORPOISE)]![GitHub stars](https://img.shields.io/github/stars/mahmoodlab/PORPOISE.svg?logo=github&label=Stars)
 
-- <a name=""></a> **[Datasets and Benchmark]** Pan-cancer integrative histology-genomic analysis via multimodal deep learning (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-022-01667-0)] [[code](https://github.com/carpenter-singh-lab/2022_Haghighi_NatureMethods)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2022_Haghighi_NatureMethods.svg?logo=github&label=Stars)
+- <a name=""></a> **[Datasets and Benchmark]** High-dimensional gene expression and morphology profiles of cells across 28,000 genetic and chemical perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-022-01667-0)] [[code](https://github.com/carpenter-singh-lab/2022_Haghighi_NatureMethods)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2022_Haghighi_NatureMethods.svg?logo=github&label=Stars)
 
 - <a name=""></a> Morphology and gene expression profiling provide complementary information for mapping cell state (**Cell Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S2405471222004021)] [[code](https://github.com/broadinstitute/lincs-profiling-complementarity/tree/master)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/lincs-profiling-complementarity.svg?logo=github&label=Stars)
 
