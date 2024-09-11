@@ -60,6 +60,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a> Integrating cell morphology with gene expression and chemical structure to aid mitochondrial toxicity detection (**Communications Biology**) [[paper](https://www.nature.com/articles/s42003-022-03763-5)] [[code](https://github.com/srijitseal/Using-Cell-Morphology-Gene-Expression-Features-and-Structural-Fingerprints-to-Aid-Detection-of-Mito/)]![GitHub stars](https://img.shields.io/github/stars/srijitseal/Using-Cell-Morphology-Gene-Expression-Features-and-Structural-Fingerprints-to-Aid-Detection-of-Mito.svg?logo=github&label=Stars)
 
+- <a name=""></a> **[WS-DINO]** Self-Supervised Learning of Phenotypic Representations from Cell Images with Weak Labels (**LMRL @NeurIPS 2022**) [[paper](https://arxiv.org/abs/2209.07819)] [[code](https://github.com/crosszamirski/WS-DINO/)]![GitHub stars](https://img.shields.io/github/stars/crosszamirski/WS-DINO.svg?logo=github&label=Stars)
+
 
 
 ### 2021 and before
