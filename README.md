@@ -47,7 +47,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a>**[Multimodal]** Multimodal data fusion for cancer biomarker discovery with deep learning (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-023-00633-5)]
 
-- <a name=""></a> Predicting compound activity from phenotypic profiles and chemical structures (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-37570-1)] [[code](https://github.com/CaicedoLab/2023_Moshkov_NatComm)]![GitHub stars](https://img.shields.io/github/stars/CaicedoLab/2023_Moshkov_NatComm.svg?logo=github&label=Stars)
+- <a name=""></a>**[Multimodal]** Predicting compound activity from phenotypic profiles and chemical structures (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-37570-1)] [[code](https://github.com/CaicedoLab/2023_Moshkov_NatComm)]![GitHub stars](https://img.shields.io/github/stars/CaicedoLab/2023_Moshkov_NatComm.svg?logo=github&label=Stars)
 
 - <a name=""></a> Deep representation learning determines drug mechanism of action from cell painting images (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00060e)] [[code](https://github.com/pfizer-opensource/moa-profiler)]![GitHub stars](https://img.shields.io/github/stars/pfizer-opensource/moa-profiler.svg?logo=github&label=Stars)
 
@@ -55,6 +55,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### 2022
+
+- <a name=""></a> **[Contrastive learning]** Contrastive learning of image- and structure-based representations in drug discovery (**MLDD @ICLR 2022**) [[paper](https://openreview.net/pdf?id=OdXKRtg1OG)] [[code](https://github.com/ml-jku/cloome)]![GitHub stars](https://img.shields.io/github/stars/ml-jku/cloome.svg?logo=github&label=Stars)
 
 - <a name=""></a> **[Multimodal deep learning]** Pan-Cancer Integrative Histology-Genomic Analysis via Multimodal Deep Learning (**Cancer Cell**) [[paper](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8)] [[code](https://github.com/mahmoodlab/PORPOISE)]![GitHub stars](https://img.shields.io/github/stars/mahmoodlab/PORPOISE.svg?logo=github&label=Stars)
 
