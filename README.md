@@ -1,4 +1,4 @@
-# Awesome Phenotypic Drug Discovery & Image-based Cell Profiling
+# Awesome Phenotypic Drug Discovery
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
