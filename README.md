@@ -28,7 +28,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name=""></a>**[Datasets and Benchmark]** Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02241-6)] [[code](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods/tree/main)]![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/2024_Chandrasekaran_NatureMethods.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (** Advanced science **) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
+- <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
   
 - <a name=""></a>**[ChannelViT]** Channel Vision Transformer: An Image Is Worth C x 16 x 16 Words (**ICLR 2024**) [[paper](https://arxiv.org/abs/2309.16108)] [[code](https://github.com/insitro/ChannelViT)]![GitHub stars](https://img.shields.io/github/stars/insitro/ChannelViT.svg?logo=github&label=Stars)
 
