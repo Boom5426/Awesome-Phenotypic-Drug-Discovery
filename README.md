@@ -1,6 +1,6 @@
 # Awesome Phenotypic Drug Discovery
 
-If you have any problems, suggestions or improvements, please submit the issue or PR1.
+If you have any problems, suggestions or improvements, please submit the issue or PR.
 
 ## Datasets
 
