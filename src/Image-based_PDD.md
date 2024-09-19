@@ -1,4 +1,4 @@
-# Awesome Phenotypic Drug Discovery (PDD)
+# Awesome Image-based Phenotypic Drug Discovery (PDD)
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
