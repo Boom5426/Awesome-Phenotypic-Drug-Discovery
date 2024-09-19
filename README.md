@@ -13,10 +13,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
 
-| [[**Survey**]()] | [[**Datasets**]()] | [[**Tools**]()] |
+| [[**Image-based PDD**](src/Image-based PDD.md)] | [[**Gene-based PDD**](src/Gene-based PDD.md)] | [[**Image & Gene-based PDD**](src/Image & Gene-based PDD.md)] |
 | :---- | :---- | :---- |
-| [[**Image-based PDD**]()] | [[**Gene-based PDD**]()] | [[**Image & Gene-based PDD**]()] |
-| [[**Image & Other-based PDD**]()] | [[**Image, Gene & Other-based PDD**]()] | [[**Multi-channel Image Processing**]()] |
+| [[**Image & Other-based PDD**](src/Image & Other-based PDD.md)] | [[**Image, Gene & Other-based PDD**](src/Image, Gene & Other-based PDD.md)] | [[**Multi-channel Image Processing**](src/Multi-channel Image Processing.md)] |
 
 
 # Survey
