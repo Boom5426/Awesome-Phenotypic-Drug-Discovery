@@ -13,25 +13,29 @@ If you have any problems, suggestions or improvements, please submit the issue o
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
 
-| [[**survey**]()] | [[**Datasets**]()] | [[**Tools**]()] |
+| [[**Survey**]()] | [[**Datasets**]()] | [[**Tools**]()] |
 | :---- | :---- | :---- |
 | [[**Image-based PDD**]()] | [[**Gene-based PDD**]()] | [[**Image & Gene-based PDD**]()] |
-| [[**Image & other-based PDD**]()] | [[**Image, Gene & other-based PDD**]()] | [[**Multi-channel Image Processing**]()] |
+| [[**Image & Other-based PDD**]()] | [[**Image, Gene & Other-based PDD**]()] | [[**Multi-channel Image Processing**]()] |
+
+
+# Survey
+- <a name=""></a>**[2024]** Morphological profiling for drug discovery in the era of deep learning (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article/25/4/bbae284/7693952)]
+- <a name=""></a>**[2024]** Artificial intelligence for high content imaging in drug discovery (**Current Opinion in Structural Biology**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)]
+- <a name=""></a>**[2023]** Deep learning in image-based phenotypic drug discovery (**Trends in Cell Biology**) [[paper](https://www.cell.com/trends/cell-biology/abstract/S0962-8924(22)00262-8)]
+- <a name=""></a>**[2022]** Phenotypic drug discovery: recent successes, lessons learned and new directions (**Nature Reviews Drug Discovery**) [[paper](https://www.nature.com/articles/s41573-022-00472-w)]
+- <a name=""></a>**[2020]** Image-based profiling for drug discovery: due for a machine-learning upgrade? (**Nature Reviews Drug Discovery**) [[paper](https://www.nature.com/articles/s41573-020-00117-w)]
 
 
 # Datasets
-
 - <a name=""></a>**[Cell Painting Gallery]** [[Link](https://registry.opendata.aws/cellpainting-gallery/)]  [[Datasets Overview](https://github.com/broadinstitute/cellpainting-gallery/blob/main/README.md)]  [[AWS Overview](https://cellpainting-gallery.s3.amazonaws.com/index.html)]
 - <a name=""></a>**[JUMP-Cell Painting Consortium]** [[Link](https://jump-cellpainting.broadinstitute.org/)]
 - <a name=""></a>**[NYSCF Automated Deep Phenotyping Dataset (ADPD)]** [[Link](https://nyscf.org/open-source/nyscf-adpd/)]
 
 
 # Tools
-
 - <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
-
 - <a name=""></a> **[Pycytominer]** Reproducible image-based profiling with Pycytominer (**Arxiv**) [[paper](https://arxiv.org/abs/2311.13417)] [[code](https://github.com/cytomining/pycytominer)]![GitHub stars](https://img.shields.io/github/stars/cytomining/pycytominer.svg?logo=github&label=Stars)
-
 - <a name=""></a> **[CellProfiler]** CellProfiler 3.0:Next-generation imageprocessing for biology (**PLOS BIOLOGY**) [[paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005970)] [[code](https://github.com/CellProfiler)]![GitHub stars](https://img.shields.io/github/stars/CellProfiler/CellProfiler.svg?logo=github&label=Stars)
 
 
@@ -51,16 +55,10 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[scDINO]** Self-supervised vision transformers accurately decode cellular state heterogeneity (** BioRxiv **) [[paper](https://www.biorxiv.org/content/10.1101/2023.01.16.524226v1)][[code](https://github.com/JacobHanimann/scDINO)]![GitHub stars](https://img.shields.io/github/stars/JacobHanimann/scDINO.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[Survey]** Morphological profiling for drug discovery in the era of deep learning (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article/25/4/bbae284/7693952)]
-  
-- <a name=""></a>**[Survey]** Artificial intelligence for high content imaging in drug discovery (**Current Opinion in Structural Biology**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)]
-
 
 ### 2023
 
 - <a name=""></a>**[Checklists]** Community-developed checklists for publishing images and image analyses (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-023-01987-9)][[code](https://github.com/QUAREP-LiMi/WG12_checklists_for_image_publishing)]![GitHub stars](https://img.shields.io/github/stars/QUAREP-LiMi/WG12_checklists_for_image_publishing.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[Survey]** Deep learning in image-based phenotypic drug discovery (**Trends in Cell Biology**) [[paper](https://www.cell.com/trends/cell-biology/abstract/S0962-8924(22)00262-8)]
 
 - <a name=""></a>**[Multimodal]** Multimodal data fusion for cancer biomarker discovery with deep learning (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-023-00633-5)]
 
