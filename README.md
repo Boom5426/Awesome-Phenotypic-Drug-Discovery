@@ -1,25 +1,32 @@
-# Awesome Phenotypic Drug Discovery
-
-The advent of high-throughput automated imaging technology has enabled the capture of various morphological features of single cells under different perturbations at single-cell resolution. Concurrently, significant advancements in deep learning for computer vision tasks have greatly enhanced the ability to analyze large-scale high-throughput images. These technological advancements have facilitated researchers’ understanding of compound mechanisms of action, drug repurposing, and the characterization of cell morphology dynamics under perturbations, ultimately contributing to the development of novel therapeutic drugs.
-
-In this project, we first categorize existing work based on data sources:   
-**1. Image-based PDD  
-2. Gene-based PDD  
-3. Image & Gene-based PDD  
-4. Image & other-based PDD  
-5. Image, Gene & other-based PDD**  
-Additionally, we compile existing **image databases** and their processing methods, including the latest **multi-channel image processing** algorithms.
+# Awesome Phenotypic Drug Discovery (PDD)
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
-## Datasets
+## Contents
+* [Survey](#survey)
+* [Datasets](#datasets)
+* [Tools](#Tools)
+
+
+## Papers
+
+Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
+
+
+| [[**survey**]()] | [[**Datasets**]()] | [[**Tools**]()] |
+| [[**Image-based PDD **]()] | [[**Gene-based PDD**](src/Survey.md)] | [[**Image & Gene-based PDD**]()] |
+| :---- | :---- | :---- |
+| [[**Image & other-based PDD**]()] | [[**Image, Gene & other-based PDD**]()] | [[**Multi-channel Image Processing**]()] |
+
+
+# Datasets
 
 - <a name=""></a>**[Cell Painting Gallery]** [[Link](https://registry.opendata.aws/cellpainting-gallery/)]  [[Datasets Overview](https://github.com/broadinstitute/cellpainting-gallery/blob/main/README.md)]  [[AWS Overview](https://cellpainting-gallery.s3.amazonaws.com/index.html)]
 - <a name=""></a>**[JUMP-Cell Painting Consortium]** [[Link](https://jump-cellpainting.broadinstitute.org/)]
 - <a name=""></a>**[NYSCF Automated Deep Phenotyping Dataset (ADPD)]** [[Link](https://nyscf.org/open-source/nyscf-adpd/)]
 
 
-## Tools
+# Tools
 
 - <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
 
@@ -28,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a> **[CellProfiler]** CellProfiler 3.0:Next-generation imageprocessing for biology (**PLOS BIOLOGY**) [[paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005970)] [[code](https://github.com/CellProfiler)]![GitHub stars](https://img.shields.io/github/stars/CellProfiler/CellProfiler.svg?logo=github&label=Stars)
 
 
-## Papers
+# Papers
 
 ### 2024
 
