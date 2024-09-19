@@ -1,5 +1,9 @@
 # Awesome Phenotypic Drug Discovery
 
+The advent of high-throughput automated imaging technology has enabled the capture of various morphological features of single cells under different perturbations at single-cell resolution. Concurrently, significant advancements in deep learning for computer vision tasks have greatly enhanced the ability to analyze large-scale high-throughput images. These technological advancements have facilitated researchers’ understanding of compound mechanisms of action, drug repurposing, and the characterization of cell morphology dynamics under perturbations, ultimately contributing to the development of novel therapeutic drugs.
+
+In this project, we first categorize existing work based on data sources: **1. Image-based PDD, 2. Gene-based PDD, 3. Image & Gene-based PDD, 4. Image & other-based PDD, 5. Image, Gene & other-based PDD**. Additionally, we compile existing **image databases** and their processing methods, including the latest **multi-channel image processing** algorithms.
+
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
 ## Datasets
