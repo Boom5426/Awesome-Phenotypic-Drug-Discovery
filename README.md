@@ -14,7 +14,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 
 | [[**survey**]()] | [[**Datasets**]()] | [[**Tools**]()] |
-| [[**Image-based PDD **]()] | [[**Gene-based PDD**](src/Survey.md)] | [[**Image & Gene-based PDD**]()] |
+| :---- | :---- | :---- |
+| [[**Image-based PDD**]()] | [[**Gene-based PDD**]()] | [[**Image & Gene-based PDD**]()] |
 | :---- | :---- | :---- |
 | [[**Image & other-based PDD**]()] | [[**Image, Gene & other-based PDD**]()] | [[**Multi-channel Image Processing**]()] |
 
