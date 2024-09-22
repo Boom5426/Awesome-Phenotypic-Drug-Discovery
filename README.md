@@ -12,7 +12,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
-| [[**Image-based PDD**](src/Image-based_PDD.md)] | [[**Gene-based PDD**](src/Gene-based_PDD.md)] | [[**Image & Gene-based PDD**](src/Image&Gene-based_PDD.md)] |
+| [[**Image-based PDD**](##Image-based_PDD)] | [[**Gene-based PDD**](src/Gene-based_PDD.md)] | [[**Image & Gene-based PDD**](src/Image&Gene-based_PDD.md)] |
 | :---- | :---- | :---- |
 | [[**Image & Other-based PDD**](src/Image&Other-based_PDD.md)] | [[**Image, Gene & Other-based PDD**](src/Image&Gene&Other-based_PDD.md)] | [[**Multi-channel Image Processing**](src/Multi-channel_Image_Processing.md)] |
 
@@ -39,7 +39,12 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 # Papers
 
-### 2024
+## Image-based PDD
+
+<details>
+<summary>Details</summary>
+
+</details>
 
 - <a name=""></a>**[Batch Correction]** Evaluating batch correction methods for image-based cell profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-50613-5)] [[code](https://github.com/carpenter-singh-lab/2023_Arevalo_BatchCorrection)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2023_Arevalo_BatchCorrection.svg?logo=github&label=Stars)
 
