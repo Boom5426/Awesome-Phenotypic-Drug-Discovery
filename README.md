@@ -13,7 +13,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
 | [[**Image-based PDD**](##Image-based_PDD)] | [[**Gene-based PDD**](Gene-based_PDD)] | [[**Image & Gene-based PDD**](##Image&Gene-based_PDD)] | [[**Multi-channel Image Processing**](##Multi-channel_Image_Processing)] 
-| :---- | :---- | :---- |
 
 
 
@@ -72,6 +71,10 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <summary>Details</summary>
 
 ### 2024
+
+- <a name=""></a>**[PertKGE]** Identifying compound-protein interactions with knowledge graph embedding of perturbation transcriptomics (**Cell Genomics**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666979X24002660?via%3Dihub#sec4)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
+
+ 
 - <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[Velodrome]** Out-of-distribution generalization from labelled and unlabelled gene expression data for drug response prediction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/hosseinshn/Velodrome)]![GitHub stars](https://img.shields.io/github/stars/hosseinshn/Velodrome.svg?logo=github&label=Stars)
