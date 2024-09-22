@@ -60,6 +60,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[scDINO]** Self-supervised vision transformers accurately decode cellular state heterogeneity (** BioRxiv **) [[paper](https://www.biorxiv.org/content/10.1101/2023.01.16.524226v1)][[code](https://github.com/JacobHanimann/scDINO)]![GitHub stars](https://img.shields.io/github/stars/JacobHanimann/scDINO.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
 
 ### 2023
 
@@ -71,6 +72,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a> Deep representation learning determines drug mechanism of action from cell painting images (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00060e)] [[code](https://github.com/pfizer-opensource/moa-profiler)]![GitHub stars](https://img.shields.io/github/stars/pfizer-opensource/moa-profiler.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[SCAD]** Enabling Single-Cell Drug Response Annotations from Bulk RNA-Seq Using SCAD (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202204113)] [[code](https://github.com/CompBioT/SCAD)]![GitHub stars](https://img.shields.io/github/stars/CompBioT/SCAD.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[ASGARD]** ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-36637-3)] [[code](https://github.com/lanagarmire/ASGARD)]![GitHub stars](https://img.shields.io/github/stars/lanagarmire/ASGARD.svg?logo=github&label=Stars)
 
 
 
@@ -96,7 +100,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a> **[Multimodal deep learning]** Capturing single-cell heterogeneity via data fusion improves image-based profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-019-10154-8)] [[code](https://github.com/carpenterlab/2018_Rohban_NatComm)]![GitHub stars](https://img.shields.io/github/stars/carpenterlab/2018_Rohban_NatComm.svg?logo=github&label=Stars)
 
-
+- <a name=""></a>**[Velodrome]** Out-of-distribution generalization from labelled and unlabelled gene expression data for drug response prediction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/hosseinshn/Velodrome)]![GitHub stars](https://img.shields.io/github/stars/hosseinshn/Velodrome.svg?logo=github&label=Stars)
 
 
 <!-- 
