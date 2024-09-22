@@ -149,6 +149,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ## Others
 <details>
 <summary>Details</summary>
+
 - <a name=""></a>**[Checklists]** Community-developed checklists for publishing images and image analyses (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-023-01987-9)][[code](https://github.com/QUAREP-LiMi/WG12_checklists_for_image_publishing)]![GitHub stars](https://img.shields.io/github/stars/QUAREP-LiMi/WG12_checklists_for_image_publishing.svg?logo=github&label=Stars)
 
 
