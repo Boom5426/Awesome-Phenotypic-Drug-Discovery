@@ -12,9 +12,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
-| [[**Image-based PDD**](##Image-based_PDD)] | [[**Gene-based PDD**](Gene-based_PDD)] | [[**Image & Gene-based PDD**](##Image&Gene-based_PDD)] |
+| [[**Image-based PDD**](##Image-based_PDD)] | [[**Gene-based PDD**](Gene-based_PDD)] | [[**Image & Gene-based PDD**](##Image&Gene-based_PDD)] | [[**Multi-channel Image Processing**](##Multi-channel_Image_Processing)] 
 | :---- | :---- | :---- |
-| [[**Multi-channel Image Processing**](##Multi-channel_Image_Processing)] |
+
 
 
 # Survey
