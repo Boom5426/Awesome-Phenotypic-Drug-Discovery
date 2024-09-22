@@ -48,6 +48,11 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[scDINO]** Self-supervised vision transformers accurately decode cellular state heterogeneity (** BioRxiv **) [[paper](https://www.biorxiv.org/content/10.1101/2023.01.16.524226v1)][[code](https://github.com/JacobHanimann/scDINO)]![GitHub stars](https://img.shields.io/github/stars/JacobHanimann/scDINO.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
+
+- <a name=""></a> **[Contrastive learning]** Contrastive learning of image- and structure-based representations in drug discovery (**MLDD @ICLR 2022**) [[paper](https://openreview.net/pdf?id=OdXKRtg1OG)] [[code](https://github.com/ml-jku/cloome)]![GitHub stars](https://img.shields.io/github/stars/ml-jku/cloome.svg?logo=github&label=Stars)
+
+
 
 ### 2023
 
@@ -78,35 +83,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[ASGARD]** ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-36637-3)] [[code](https://github.com/lanagarmire/ASGARD)]![GitHub stars](https://img.shields.io/github/stars/lanagarmire/ASGARD.svg?logo=github&label=Stars)
 
 
-
 </details>
 
 ## Image&Gene-based_PDD
-<details>
-<summary>Details</summary>
-
-### 2024
-
-### 2023
-
-</details>
-
-
-## Image&Other-based_PDD
-<details>
-<summary>Details</summary>
-
-### 2024
-- <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
-
-### 2023
-
-### 2022
-- <a name=""></a> **[Contrastive learning]** Contrastive learning of image- and structure-based representations in drug discovery (**MLDD @ICLR 2022**) [[paper](https://openreview.net/pdf?id=OdXKRtg1OG)] [[code](https://github.com/ml-jku/cloome)]![GitHub stars](https://img.shields.io/github/stars/ml-jku/cloome.svg?logo=github&label=Stars)
-
-</details>
-
-## Image&Gene&Other-based_PDD
 <details>
 <summary>Details</summary>
 
@@ -153,10 +132,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[ChAda-ViT]** ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bourriez_ChAda-ViT__Channel_Adaptive_Attention_for_Joint_Representation_Learning_of_CVPR_2024_paper.pdf)] [[code](https://github.com/nicoboou/chadavit)]![GitHub stars](https://img.shields.io/github/stars/nicoboou/chadavit.svg?logo=github&label=Stars)
 
-### 2023
-
-
-### 2022
 
 </details>
 
