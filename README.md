@@ -12,9 +12,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
-| [[**Image-based PDD**](##Image-based_PDD)] | [[**Gene-based PDD**](src/Gene-based_PDD.md)] | [[**Image & Gene-based PDD**](src/Image&Gene-based_PDD.md)] |
+| [[**Image-based PDD**](##Image-based_PDD)] | [[**Gene-based PDD**](Gene-based_PDD)] | [[**Image & Gene-based PDD**](##Image&Gene-based_PDD)] |
 | :---- | :---- | :---- |
-| [[**Image & Other-based PDD**](src/Image&Other-based_PDD.md)] | [[**Image, Gene & Other-based PDD**](src/Image&Gene&Other-based_PDD.md)] | [[**Multi-channel Image Processing**](src/Multi-channel_Image_Processing.md)] |
+| [[**Image & Other-based PDD**](##Image&Other-based_PDD)] | [[**Image, Gene & Other-based PDD**](##Image&Gene&Other-based_PDD)] | [[**Multi-channel Image Processing**](##Multi-channel_Image_Processing)] |
 
 
 # Survey
@@ -39,21 +39,76 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 # Papers
 
-## Image-based PDD
-
+## Image-based_PDD
 <details>
 <summary>Details</summary>
 
+### 2024
+- <a name=""></a>**[Batch Correction]** Evaluating batch correction methods for image-based cell profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-50613-5)] [[code](https://github.com/carpenter-singh-lab/2023_Arevalo_BatchCorrection)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2023_Arevalo_BatchCorrection.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[scDINO]** Self-supervised vision transformers accurately decode cellular state heterogeneity (** BioRxiv **) [[paper](https://www.biorxiv.org/content/10.1101/2023.01.16.524226v1)][[code](https://github.com/JacobHanimann/scDINO)]![GitHub stars](https://img.shields.io/github/stars/JacobHanimann/scDINO.svg?logo=github&label=Stars)
+
+
+### 2023
+
 </details>
 
-- <a name=""></a>**[Batch Correction]** Evaluating batch correction methods for image-based cell profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-50613-5)] [[code](https://github.com/carpenter-singh-lab/2023_Arevalo_BatchCorrection)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2023_Arevalo_BatchCorrection.svg?logo=github&label=Stars)
+## Gene-based_PDD
+<details>
+<summary>Details</summary>
+
+### 2024
+
+
+- <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
+
+### 2023
+
+</details>
+
+## Image&Gene-based_PDD
+<details>
+<summary>Details</summary>
+
+### 2024
+
+### 2023
+
+</details>
+
+
+## Image&Other-based_PDD
+<details>
+<summary>Details</summary>
+
+### 2024
+- <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
+
+
+### 2023
+
+</details>
+
+## Image&Gene&Other-based_PDD
+<details>
+<summary>Details</summary>
+
+### 2024
 
 - <a name=""></a>**[Datasets]** JUMP Cell Painting dataset: morphological impact of 136,000 chemical and genetic perturbations (**Arxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2023.03.23.534023v2)] [[dataset](https://registry.opendata.aws/cellpainting-gallery/)]
 
 - <a name=""></a>**[Datasets and Benchmark]** Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02241-6)] [[code](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods/tree/main)]![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/2024_Chandrasekaran_NatureMethods.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
-  
+### 2023
+
+</details>
+
+
+## Multi-channel_Image_Processing
+<details>
+<summary>Details</summary>
+
+### 2024
 - <a name=""></a>**[ChannelViT]** Channel Vision Transformer: An Image Is Worth C x 16 x 16 Words (**ICLR 2024**) [[paper](https://arxiv.org/abs/2309.16108)] [[code](https://github.com/insitro/ChannelViT)]![GitHub stars](https://img.shields.io/github/stars/insitro/ChannelViT.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[CHAMMI]** CHAMMI: A benchmark for channel-adaptive models in microscopy imaging (**NIPS 2024**) [[paper](https://arxiv.org/abs/2310.19224)] [[code](https://github.com/chaudatascience/channel_adaptive_models)]![GitHub stars](https://img.shields.io/github/stars/chaudatascience/channel_adaptive_models.svg?logo=github&label=Stars)
@@ -63,9 +118,23 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[ChAda-ViT]** ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bourriez_ChAda-ViT__Channel_Adaptive_Attention_for_Joint_Representation_Learning_of_CVPR_2024_paper.pdf)] [[code](https://github.com/nicoboou/chadavit)]![GitHub stars](https://img.shields.io/github/stars/nicoboou/chadavit.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[scDINO]** Self-supervised vision transformers accurately decode cellular state heterogeneity (** BioRxiv **) [[paper](https://www.biorxiv.org/content/10.1101/2023.01.16.524226v1)][[code](https://github.com/JacobHanimann/scDINO)]![GitHub stars](https://img.shields.io/github/stars/JacobHanimann/scDINO.svg?logo=github&label=Stars)
+### 2023
 
-- <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2023
 
