@@ -52,9 +52,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
 
-- <a name=""></a> **[Contrastive learning]** Contrastive learning of image- and structure-based representations in drug discovery (**MLDD @ICLR 2022**) [[paper](https://openreview.net/pdf?id=OdXKRtg1OG)] [[code](https://github.com/ml-jku/cloome)]![GitHub stars](https://img.shields.io/github/stars/ml-jku/cloome.svg?logo=github&label=Stars)
-
-
 
 ### 2023
 
@@ -66,6 +63,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a> **[WS-DINO]** Self-Supervised Learning of Phenotypic Representations from Cell Images with Weak Labels (**LMRL @NeurIPS 2022**) [[paper](https://arxiv.org/abs/2209.07819)] [[code](https://github.com/crosszamirski/WS-DINO/)]![GitHub stars](https://img.shields.io/github/stars/crosszamirski/WS-DINO.svg?logo=github&label=Stars)
 
+- <a name=""></a> **[Contrastive learning]** Contrastive learning of image- and structure-based representations in drug discovery (**MLDD @ICLR 2022**) [[paper](https://openreview.net/pdf?id=OdXKRtg1OG)] [[code](https://github.com/ml-jku/cloome)]![GitHub stars](https://img.shields.io/github/stars/ml-jku/cloome.svg?logo=github&label=Stars)
 
 </details>
 
