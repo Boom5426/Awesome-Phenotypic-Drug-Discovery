@@ -75,6 +75,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[PertKGE]** Identifying compound-protein interactions with knowledge graph embedding of perturbation transcriptomics (**Cell Genomics**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666979X24002660?via%3Dihub#sec4)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[]** An interpretable deep learning framework for genome-informed precision oncology (**Nature Machine Intelligence**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666979X24002660?via%3Dihub#sec4)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
 
 ### 2023
@@ -91,6 +93,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[Velodrome]** Out-of-distribution generalization from labelled and unlabelled gene expression data for drug response prediction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-021-00408-w)] [[code](https://github.com/hosseinshn/Velodrome)]![GitHub stars](https://img.shields.io/github/stars/hosseinshn/Velodrome.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[PathDSP]** Explainable drug sensitivity prediction through cancer pathway enrichment (**Scientific reports**) [[paper](https://www.nature.com/articles/s41598-021-82612-7?fromPaywallRec=false)] [[code](https://github.com/TangYiChing/PathDSP)]![GitHub stars](https://img.shields.io/github/stars/TangYiChing/PathDSP.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[VAEN]** Deep generative neural network for accurate drug response imputatio (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-021-21997-5)] [[code](https://github.com/bsml320/VAEN/)]![GitHub stars](https://img.shields.io/github/stars/bsml320/VAEN.svg?logo=github&label=Stars)
+
 
 </details>
 
