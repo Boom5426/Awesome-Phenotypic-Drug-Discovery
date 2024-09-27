@@ -90,7 +90,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### 2021
 - <a name=""></a>**[Velodrome]** Out-of-distribution generalization from labelled and unlabelled gene expression data for drug response prediction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-021-00408-w)] [[code](https://github.com/hosseinshn/Velodrome)]![GitHub stars](https://img.shields.io/github/stars/hosseinshn/Velodrome.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[PathDSP]** Explainable drug sensitivity prediction through cancer pathway enrichment (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s41598-021-82612-7?fromPaywallRec=false)] [[code](https://github.com/TangYiChing/PathDSP)]![GitHub stars](https://img.shields.io/github/stars/TangYiChing/PathDSP.svg?logo=github&label=Stars)
+- <a name=""></a>**[PathDSP]** Explainable drug sensitivity prediction through cancer pathway enrichment (**Scientific reports**) [[paper](https://www.nature.com/articles/s41598-021-82612-7?fromPaywallRec=false)] [[code](https://github.com/TangYiChing/PathDSP)]![GitHub stars](https://img.shields.io/github/stars/TangYiChing/PathDSP.svg?logo=github&label=Stars)
 
 </details>
 
