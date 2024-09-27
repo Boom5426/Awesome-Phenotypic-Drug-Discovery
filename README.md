@@ -75,7 +75,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[PertKGE]** Identifying compound-protein interactions with knowledge graph embedding of perturbation transcriptomics (**Cell Genomics**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666979X24002660?via%3Dihub#sec4)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[]** An interpretable deep learning framework for genome-informed precision oncology (**Nature Machine Intelligence**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666979X24002660?via%3Dihub#sec4)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
+- <a name=""></a>**[]** An interpretable deep learning framework for genome-informed precision oncology (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-024-00866-y)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
 
