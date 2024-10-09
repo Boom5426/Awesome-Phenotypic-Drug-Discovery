@@ -111,14 +111,16 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[Datasets and Benchmark]** Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02241-6)] [[code](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods/tree/main)]![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/2024_Chandrasekaran_NatureMethods.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[Multimodal]** Learning Molecular Representation in a Cell (**Arxiv**) [[paper](https://arxiv.org/abs/2406.12056)] [[code](https://github.com/liugangcode/InfoAlign)]![GitHub stars](https://img.shields.io/github/stars/liugangcode/InfoAlign.svg?logo=github&label=Stars)
+- <a name=""></a>**[cmQTL]** High-dimensional phenotyping to define the genetic basis of cellular morphology (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-44045-w)] [[code](https://github.com/broadinstitute/cmQTL)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/cmQTL.svg?logo=github&label=Stars)
+
+- <a name=""></a>**** Learning Molecular Representation in a Cell (**Arxiv**) [[paper](https://arxiv.org/abs/2406.12056)] [[code](https://github.com/liugangcode/InfoAlign)]![GitHub stars](https://img.shields.io/github/stars/liugangcode/InfoAlign.svg?logo=github&label=Stars)
  
-- <a name=""></a>**[Multimodal]** Removing Biases from Molecular Representations via Information Maximization (**Arxiv**) [[paper](https://arxiv.org/abs/2312.00718)] [[code](https://github.com/uhlerlab/InfoCORE)]![GitHub stars](https://img.shields.io/github/stars/uhlerlab/InfoCORE.svg?logo=github&label=Stars)
+- <a name=""></a>**** Removing Biases from Molecular Representations via Information Maximization (**Arxiv**) [[paper](https://arxiv.org/abs/2312.00718)] [[code](https://github.com/uhlerlab/InfoCORE)]![GitHub stars](https://img.shields.io/github/stars/uhlerlab/InfoCORE.svg?logo=github&label=Stars)
 ### 2023
 
 - <a name=""></a>**[Multimodal]** Multimodal data fusion for cancer biomarker discovery with deep learning (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-023-00633-5)]
 
-- <a name=""></a>**[Multimodal]** Predicting compound activity from phenotypic profiles and chemical structures (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-37570-1)] [[code](https://github.com/CaicedoLab/2023_Moshkov_NatComm)]![GitHub stars](https://img.shields.io/github/stars/CaicedoLab/2023_Moshkov_NatComm.svg?logo=github&label=Stars)
+- <a name=""></a>**** Predicting compound activity from phenotypic profiles and chemical structures (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-37570-1)] [[code](https://github.com/CaicedoLab/2023_Moshkov_NatComm)]![GitHub stars](https://img.shields.io/github/stars/CaicedoLab/2023_Moshkov_NatComm.svg?logo=github&label=Stars)
 
 ### 2022
 
