@@ -109,6 +109,10 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[Datasets]** JUMP Cell Painting dataset: morphological impact of 136,000 chemical and genetic perturbations (**Arxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2023.03.23.534023v2)] [[dataset](https://registry.opendata.aws/cellpainting-gallery/)]
 
+
+- <a name=""></a> Cell morphological representations of genes enhance prediction of drug targets (**Biorxiv**) [[paper](https://www.biorxiv.org/content/biorxiv/early/2024/06/10/2024.06.08.598076.full.pdf)]
+
+ 
 - <a name=""></a>**[Datasets and Benchmark]** Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02241-6)] [[code](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods/tree/main)]![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/2024_Chandrasekaran_NatureMethods.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[cmQTL]** High-dimensional phenotyping to define the genetic basis of cellular morphology (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-44045-w)] [[code](https://github.com/broadinstitute/cmQTL)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/cmQTL.svg?logo=github&label=Stars)
