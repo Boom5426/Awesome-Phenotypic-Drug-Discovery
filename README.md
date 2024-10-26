@@ -37,6 +37,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
 - <a name=""></a> **[Pycytominer]** Reproducible image-based profiling with Pycytominer (**Arxiv**) [[paper](https://arxiv.org/abs/2311.13417)] [[code](https://github.com/cytomining/pycytominer)]![GitHub stars](https://img.shields.io/github/stars/cytomining/pycytominer.svg?logo=github&label=Stars)
 - <a name=""></a> **[CellProfiler]** CellProfiler 3.0:Next-generation imageprocessing for biology (**PLOS BIOLOGY**) [[paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005970)] [[code](https://github.com/CellProfiler)]![GitHub stars](https://img.shields.io/github/stars/CellProfiler/CellProfiler.svg?logo=github&label=Stars)
+- <a name=""></a> **[CellSAM]** CellSAM: A Foundation Model for Cell Segmentation (**Biorxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v3)] [[code](https://github.com/vanvalenlab/cellSAM)]![GitHub stars](https://img.shields.io/github/stars/vanvalenlab/cellSAM.svg?logo=github&label=Stars)
 
 
 # Papers
