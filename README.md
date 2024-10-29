@@ -49,6 +49,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <summary>Details</summary>
 
 ### 2024
+- <a name=""></a>**[PhenoScreen]** PhenoScreen: A Dual-Space Contrastive Learning Framework-based Phenotypic Screening Method by Linking Chemical Perturbations to Cellular Morphology (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1)] [[code](https://github.com/Shihang-Wang-58/PhenoScreen)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/Shihang-Wang-58/PhenoScreen.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[Batch Correction]** Evaluating batch correction methods for image-based cell profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-50613-5)] [[code](https://github.com/carpenter-singh-lab/2023_Arevalo_BatchCorrection)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2023_Arevalo_BatchCorrection.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[scDINO]** Self-supervised vision transformers accurately decode cellular state heterogeneity (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2023.01.16.524226v1)][[code](https://github.com/JacobHanimann/scDINO)]![GitHub stars](https://img.shields.io/github/stars/JacobHanimann/scDINO.svg?logo=github&label=Stars)
