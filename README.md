@@ -80,6 +80,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 ### 2024
 
+- <a name=""></a>**[PRnet]** Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-53457-1)] [[code](https://github.com/Perturbation-Response-Prediction/PRnet)]![GitHub stars](https://img.shields.io/github/stars//Perturbation-Response-Prediction.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[PertKGE]** Identifying compound-protein interactions with knowledge graph embedding of perturbation transcriptomics (**Cell Genomics**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666979X24002660?via%3Dihub#sec4)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
 
 - <a name=""></a> An interpretable deep learning framework for genome-informed precision oncology (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-024-00866-y)] [[code](https://github.com/myzhengSIMM/PertKGE)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/PertKGE.svg?logo=github&label=Stars)
