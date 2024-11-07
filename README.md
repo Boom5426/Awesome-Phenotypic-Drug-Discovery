@@ -98,6 +98,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[scDEAL]** Deep transfer learning of cancer drug responses by integrating bulk and single-cell RNA-seq data (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-022-34277-7)] [[code](https://github.com/OSU-BMBL/scDEAL)]![GitHub stars](https://img.shields.io/github/stars/OSU-BMBL/scDEAL.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[chemCPA]** Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution (**NIPS 2022**) [[paper](https://neurips.cc/virtual/2022/poster/53227)] [[code](https://github.com/theislab/chemCPA)]![GitHub stars](https://img.shields.io/github/stars/theislab/chemCPA.svg?logo=github&label=Stars)
+
 ### 2021
 - <a name=""></a>**[Velodrome]** Out-of-distribution generalization from labelled and unlabelled gene expression data for drug response prediction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-021-00408-w)] [[code](https://github.com/hosseinshn/Velodrome)]![GitHub stars](https://img.shields.io/github/stars/hosseinshn/Velodrome.svg?logo=github&label=Stars)
 
