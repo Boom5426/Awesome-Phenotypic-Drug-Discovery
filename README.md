@@ -1,8 +1,10 @@
 # Awesome Phenotypic Drug Discovery (PDD)
 ```
-在药物发现中，表型（Phenotypic） 通常指的是细胞或生物体在药物处理后所表现出的可观察特征或变化。这些变化可以包括细胞形态、基因表达、蛋白质水平和代谢产物等多种生物学响应。在表型药物发现（Phenotypic Drug Discovery, PDD） 中，研究人员通过观察和分析这些表型变化来评估药物的效果和潜在的治疗机制。
+在药物发现中，表型（Phenotypic） 通常指的是细胞或生物体在药物处理后所表现出的可观察特征或变化。这些变化可以包括细胞形态、基因表达、蛋白质水平和代谢产物等多种生物学响应。
+在表型药物发现（Phenotypic Drug Discovery, PDD） 中，研究人员通过观察和分析这些表型变化来评估药物的效果和潜在的治疗机制。
 
-In drug discovery, phenotypic typically refers to the observable characteristics or changes in cells or organisms after drug treatment. These changes can include various biological responses such as cell morphology, gene expression, protein levels, and metabolites. In Phenotypic Drug Discovery (PDD), researchers evaluate the effects and potential therapeutic mechanisms of drugs by observing and analyzing these phenotypic changes.
+In drug discovery, phenotypic typically refers to the observable characteristics or changes in cells or organisms after drug treatment. These changes can include various biological responses such as cell morphology, gene expression, protein levels, and metabolites.
+In Phenotypic Drug Discovery (PDD), researchers evaluate the effects and potential therapeutic mechanisms of drugs by observing and analyzing these phenotypic changes.
 ```
 
 ## Contents
