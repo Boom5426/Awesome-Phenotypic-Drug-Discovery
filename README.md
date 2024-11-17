@@ -2,6 +2,8 @@
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
+Phenotypic（表型）在药物发现中通常指的是细胞或生物体在药物处理后的可观察到的特征或变化。这些变化可以包括细胞形态、基因表达、蛋白质水平、代谢产物等多种生物学响应。 在表型药物发现（Phenotypic Drug Discovery, PDD）中，研究人员通过观察和分析这些表型变化来评估药物的效果和潜在的治疗机制。这种方法不依赖于已知的分子靶点，而是通过直接观察药物对复杂生物系统的整体影响来发现新药。
+
 ## Contents
 * [Survey](#survey)
 * [Datasets](#datasets)
