@@ -17,6 +17,7 @@ In Phenotypic Drug Discovery (PDD), researchers evaluate the effects and potenti
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
 
+* [De Novo Drug/Molecule Design](#De_Novo_Drug/Molecule_Design)
 * [Image-based PDD](#Image-based_PDD)
 * [Gene-based PDD](#Gene-based_PDD)
 * [Image & Gene-based PDD](#Image_Gene-based_PDD)
