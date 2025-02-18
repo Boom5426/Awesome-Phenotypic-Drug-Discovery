@@ -58,7 +58,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 # Papers
 
-## De_Novo_Drug_Design)
+## De_Novo_Drug_Design
 <details open>
 <summary>Details</summary>
  
@@ -68,6 +68,16 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[TransGEM]** TransGEM: a molecule generation model based on Transformer with gene expression data (**BIB**) [[paper](https://academic.oup.com/bioinformatics/article/40/5/btae189/7649318)] [[code](https://github.com/hzauzqy/TransGEM)]![GitHub stars](https://img.shields.io/github/stars/hzauzqy/TransGEM.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[CPMolGAN]** Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00081d)] [[code](https://github.com/Bayer-Group/CPMolGAN)]![GitHub stars](https://img.shields.io/github/stars/Bayer-Group/CPMolGAN.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[GexMolGen]** GexMolGen: cross-modal generation of hit-like molecules via large language model encoding of gene expression signatures (**BIB**) [[paper](https://academic.oup.com/bib/article/25/6/bbae525/7845937)] [[code](https://github.com/Bunnybeibei/GexMolGen)]![GitHub stars](https://img.shields.io/github/stars/Bunnybeibei/GexMolGen.svg?logo=github&label=Stars)
+
+
+
+### 2023
+
+- <a name=""></a>**[Survey]** Graph neural networks for conditional de novo drug design (**Wiley Interdisciplinary Reviews: Computational Molecular Science**) [[paper](https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcms.1651)]
+
+
 
 
 
