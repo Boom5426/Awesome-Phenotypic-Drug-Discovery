@@ -96,6 +96,10 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <summary>Details</summary>
 
 ### 2024
+
+- <a name=""></a>**[Foundation model]** Confounder-aware foundation modeling for accurate phenotype profiling in cell imaging (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2024.12.23.630105v1#:~:text=To%20address%20this%2C%20we%20present%20a%20confounder-aware%20foundation,generation%20of%20balanced%20synthetic%20datasets%20for%20robust%20bio)]
+
+
 - <a name=""></a>**[PhenoScreen]** PhenoScreen: A Dual-Space Contrastive Learning Framework-based Phenotypic Screening Method by Linking Chemical Perturbations to Cellular Morphology (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1)] [[code](https://github.com/Shihang-Wang-58/PhenoScreen)]![GitHub stars](https://img.shields.io/github/stars/Shihang-Wang-58/PhenoScreen.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[Batch Correction]** Evaluating batch correction methods for image-based cell profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-50613-5)] [[code](https://github.com/carpenter-singh-lab/2023_Arevalo_BatchCorrection)]![GitHub stars](https://img.shields.io/github/stars/carpenter-singh-lab/2023_Arevalo_BatchCorrection.svg?logo=github&label=Stars)
