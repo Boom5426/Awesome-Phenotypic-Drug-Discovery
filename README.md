@@ -61,8 +61,14 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ## De_Novo_Drug_Design)
 <details open>
 <summary>Details</summary>
+ 
 ### 2024
 - <a name=""></a>**[Gx2Mol]** Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning (**BioRxiv**) [[paper](https://arxiv.org/abs/2412.19422)] [[code](https://github.com/naruto7283/Gx2Mol)]![GitHub stars](https://img.shields.io/github/stars/naruto7283/Gx2Mol.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[TransGEM]** TransGEM: a molecule generation model based on Transformer with gene expression data (**BIB**) [[paper](https://academic.oup.com/bioinformatics/article/40/5/btae189/7649318)] [[code](https://github.com/hzauzqy/TransGEM)]![GitHub stars](https://img.shields.io/github/stars/hzauzqy/TransGEM.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[CPMolGAN]** Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00081d)] [[code](https://github.com/Bayer-Group/CPMolGAN)]![GitHub stars](https://img.shields.io/github/stars/Bayer-Group/CPMolGAN.svg?logo=github&label=Stars)
+
 
 
 </details>
