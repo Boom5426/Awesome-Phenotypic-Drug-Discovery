@@ -42,7 +42,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 # Tools
 
-- <a name=""></a>**[PhenoProfiler]** PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery (**Biorxiv**) [[paper](https://github.com/QSong-github/PhenoProfiler)] [[code](https://github.com/QSong-github/PhenoProfiler)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/PhenoProfiler.svg?logo=github&label=Stars) [webserver](https://phenoprofiler.org/)
+- <a name=""></a>**[PhenoProfiler]** PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery (**Biorxiv**) [[paper](https://github.com/QSong-github/PhenoProfiler)] [[code](https://github.com/QSong-github/PhenoProfiler)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/PhenoProfiler.svg?logo=github&label=Stars) [Webserver](https://phenoprofiler.org/)
  
 - <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
  
@@ -57,6 +57,17 @@ Considering the increasing number of papers in this field, we roughly summarize 
 -->
 
 # Papers
+
+## De_Novo_Drug_Design)
+<details open>
+<summary>Details</summary>
+### 2024
+- <a name=""></a>**[Gx2Mol]** Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning (**BioRxiv**) [[paper](https://arxiv.org/abs/2412.19422)] [[code](https://github.com/naruto7283/Gx2Mol)]![GitHub stars](https://img.shields.io/github/stars/naruto7283/Gx2Mol.svg?logo=github&label=Stars)
+
+
+</details>
+
+
 
 ## Image-based_PDD
 <details open>
