@@ -7,12 +7,6 @@ In drug discovery, phenotypic typically refers to the observable characteristics
 In Phenotypic Drug Discovery (PDD), researchers evaluate the effects and potential therapeutic mechanisms of drugs by observing and analyzing these phenotypic changes.
 ```
 
-## Contents
-* [Survey](#survey)
-* [Datasets](#datasets)
-* [Tools](#Tools)
-
-
 ## Papers
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
@@ -24,8 +18,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 * [Multi-channel Image Processing](#Multi-channel_Image_Processing)
 
 
-
 # Survey
+- <a name=""></a>**[2024]** Cell Painting: a decade of discovery and innovation in cellular imaging (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02528-8)]
 - <a name=""></a>**[2024]** Morphological profiling for drug discovery in the era of deep learning (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article/25/4/bbae284/7693952)] [[中文解读](https://zhuanlan.zhihu.com/p/708163198?utm_campaign=shareopn&utm_medium=social&utm_psn=1822807077606780929&utm_source=wechat_session)] 
 - <a name=""></a>**[2024]** Artificial intelligence for high content imaging in drug discovery (**Current Opinion in Structural Biology**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)]
 - <a name=""></a>**[2023]** Deep learning in image-based phenotypic drug discovery (**Trends in Cell Biology**) [[paper](https://www.cell.com/trends/cell-biology/abstract/S0962-8924(22)00262-8)]
