@@ -37,7 +37,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 # Tools
 
-- <a name=""></a>**[PhenoProfiler]** PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery (**Biorxiv**) [[paper](https://github.com/QSong-github/PhenoProfiler)] [[code](https://github.com/QSong-github/PhenoProfiler)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/PhenoProfiler.svg?logo=github&label=Stars) [Webserver](https://phenoprofiler.org/)
+- <a name=""></a>**[PhenoProfiler]** PhenoProfiler: Advancing Morphology Representations for Image-based Drug Discovery (**Biorxiv**) [[paper](https://arxiv.org/abs/2502.19568)] [[code](https://github.com/QSong-github/PhenoProfiler)]![GitHub stars](https://img.shields.io/github/stars/QSong-github/PhenoProfiler.svg?logo=github&label=Stars) [Webserver](https://phenoprofiler.org/)
  
 - <a name=""></a>**[DeepProfiler]** Learning representations for image-based profiling of perturbations (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)] [[code](https://github.com/cytomining/DeepProfiler)]![GitHub stars](https://img.shields.io/github/stars/cytomining/DeepProfiler.svg?logo=github&label=Stars)
  
