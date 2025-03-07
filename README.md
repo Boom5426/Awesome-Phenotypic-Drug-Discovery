@@ -59,6 +59,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
  
 ### 2024
 
+- <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
+
 - <a name=""></a>**[Survey]** A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation (**BIB**) [[paper](https://academic.oup.com/bib/article/25/4/bbae338/7713723)][[code](https://github.com/gersteinlab/GenAI4Drug)]![GitHub stars](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[TransGEM]** TransGEM: a molecule generation model based on Transformer with gene expression data (**BIB**) [[paper](https://academic.oup.com/bioinformatics/article/40/5/btae189/7649318)] [[code](https://github.com/hzauzqy/TransGEM)]![GitHub stars](https://img.shields.io/github/stars/hzauzqy/TransGEM.svg?logo=github&label=Stars)
