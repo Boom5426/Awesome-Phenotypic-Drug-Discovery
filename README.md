@@ -59,6 +59,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
  
 ### 2024
 
+- <a name=""></a>**[KPGT]** A Knowledge-Guided Pre-training Framework for Improving Molecular Representation Learning (**nature communications**) [[paper](https://www.nature.com/articles/s41467-023-43214-1)][[code](https://github.com/lihan97/KPGT)]![GitHub stars](https://img.shields.io/github/stars/lihan97/KPGT.svg?logo=github&label=Stars)
+
+
 - <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
 
 - <a name=""></a>**[Survey]** A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation (**BIB**) [[paper](https://academic.oup.com/bib/article/25/4/bbae338/7713723)][[code](https://github.com/gersteinlab/GenAI4Drug)]![GitHub stars](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug.svg?logo=github&label=Stars)
