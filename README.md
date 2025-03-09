@@ -56,7 +56,13 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ## De_Novo_Drug_Design
 <details open>
 <summary>Details</summary>
- 
+
+### 2025
+
+- <a name=""></a>**[SketchMol]** Image-based generation for molecule design with SketchMol (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-025-00982-3)][[code](https://github.com/WangZiXubiubiu/SketchMol-v1)]![GitHub stars](https://img.shields.io/github/stars/WangZiXubiubiu/SketchMol-v1.svg?logo=github&label=Stars)
+
+
+
 ### 2024
 
 - <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
