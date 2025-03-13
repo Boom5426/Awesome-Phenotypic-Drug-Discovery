@@ -62,8 +62,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[SketchMol]** Image-based generation for molecule design with SketchMol (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-025-00982-3)][[code](https://github.com/WangZiXubiubiu/SketchMol-v1)]![GitHub stars](https://img.shields.io/github/stars/WangZiXubiubiu/SketchMol-v1.svg?logo=github&label=Stars)
 
 
-
 ### 2024
+
+- <a name=""></a>**[GeminiMol]** Conformational Space Profiling Enhances Generic Molecular Representation for AI-Powered Ligand-Based Drug Discovery (**Advanced Science**) [[paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
 
