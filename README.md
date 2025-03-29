@@ -66,6 +66,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[GeminiMol]** Conformational Space Profiling Enhances Generic Molecular Representation for AI-Powered Ligand-Based Drug Discovery (**Advanced Science**) [[paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
 
+- <a name=""></a>**[GFlowNets]** Cell Morphology-Guided Small Molecule Generation with GFlowNets (**ICML 2024**) [[paper](https://arxiv.org/abs/2408.05196)]
+
 - <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
 
 - <a name=""></a>**[Survey]** A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation (**BIB**) [[paper](https://academic.oup.com/bib/article/25/4/bbae338/7713723)][[code](https://github.com/gersteinlab/GenAI4Drug)]![GitHub stars](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug.svg?logo=github&label=Stars)
