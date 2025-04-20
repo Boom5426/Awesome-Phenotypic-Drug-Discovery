@@ -103,6 +103,11 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <details open>
 <summary>Details</summary>
 
+### 2025
+- <a name=""></a>**[MorphoDiff]** MorphoDiff: Cellular Morphology Painting with Diffusion Models (**ICLR 2025**) [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1)] [[code](https://github.com/bowang-lab/MorphoDiff)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/MorphoDiff.svg?logo=github&label=Stars)
+
+
+
 ### 2024
 
 - <a name=""></a>**[Foundation model]** Confounder-aware foundation modeling for accurate phenotype profiling in cell imaging (**BioRxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2024.12.23.630105v1#:~:text=To%20address%20this%2C%20we%20present%20a%20confounder-aware%20foundation,generation%20of%20balanced%20synthetic%20datasets%20for%20robust%20bio)]
