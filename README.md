@@ -142,6 +142,11 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <details open>
 <summary>Details</summary>
 
+### 2025
+
+- <a name=""></a>**[CellFM]** CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-025-59926-5)] [[code](https://github.com/biomed-AI/CellFM)]![GitHub stars](https://img.shields.io/github/stars/biomed-AI/CellFM.svg?logo=github&label=Stars)
+
+
 ### 2024
 
 - <a name=""></a>**[TranSiGen]** Deep representation learning of chemical-induced transcriptional profile for phenotype-based drug discovery (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-49620-3)] [[code](https://github.com/myzhengSIMM/TranSiGen)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/TranSiGen.svg?logo=github&label=Stars)
