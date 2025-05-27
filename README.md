@@ -53,52 +53,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 # Papers
 
-## De_Novo_Drug_Design
-<details open>
-<summary>Details</summary>
-
-### 2025
-
-- <a name=""></a>**[SketchMol]** Image-based generation for molecule design with SketchMol (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-025-00982-3)][[code](https://github.com/WangZiXubiubiu/SketchMol-v1)]![GitHub stars](https://img.shields.io/github/stars/WangZiXubiubiu/SketchMol-v1.svg?logo=github&label=Stars)
-
-
-### 2024
-
-- <a name=""></a>**[GeminiMol]** Conformational Space Profiling Enhances Generic Molecular Representation for AI-Powered Ligand-Based Drug Discovery (**Advanced Science**) [[paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[GFlowNets]** Cell Morphology-Guided Small Molecule Generation with GFlowNets (**ICML 2024**) [[paper](https://arxiv.org/abs/2408.05196)]
-
-- <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
-
-- <a name=""></a>**[Survey]** A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation (**BIB**) [[paper](https://academic.oup.com/bib/article/25/4/bbae338/7713723)][[code](https://github.com/gersteinlab/GenAI4Drug)]![GitHub stars](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[TransGEM]** TransGEM: a molecule generation model based on Transformer with gene expression data (**BIB**) [[paper](https://academic.oup.com/bioinformatics/article/40/5/btae189/7649318)] [[code](https://github.com/hzauzqy/TransGEM)]![GitHub stars](https://img.shields.io/github/stars/hzauzqy/TransGEM.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[Gx2Mol]** Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning (**BioRxiv**) [[paper](https://arxiv.org/abs/2412.19422)] [[code](https://github.com/naruto7283/Gx2Mol)]![GitHub stars](https://img.shields.io/github/stars/naruto7283/Gx2Mol.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[CPMolGAN]** Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00081d)] [[code](https://github.com/Bayer-Group/CPMolGAN)]![GitHub stars](https://img.shields.io/github/stars/Bayer-Group/CPMolGAN.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[GexMolGen]** GexMolGen: cross-modal generation of hit-like molecules via large language model encoding of gene expression signatures (**BIB**) [[paper](https://academic.oup.com/bib/article/25/6/bbae525/7845937)] [[code](https://github.com/Bunnybeibei/GexMolGen)]![GitHub stars](https://img.shields.io/github/stars/Bunnybeibei/GexMolGen.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[Gex2SGen]** Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures (**Journal of Chemical Information and Modeling**) [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01301?ref=pdf)]
-
-- <a name=""></a>**[Survey]** Diffusion Models in De Novo Drug Design (**Journal of Chemical Information and Modeling**) [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01107)]
-
-
-### 2023
-
-- <a name=""></a>**[KPGT]** A Knowledge-Guided Pre-training Framework for Improving Molecular Representation Learning (**nature communications**) [[paper](https://www.nature.com/articles/s41467-023-43214-1)][[code](https://github.com/lihan97/KPGT)]![GitHub stars](https://img.shields.io/github/stars/lihan97/KPGT.svg?logo=github&label=Stars)
-
-- <a name=""></a>**[Survey]** Graph neural networks for conditional de novo drug design (**Wiley Interdisciplinary Reviews: Computational Molecular Science**) [[paper](https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcms.1651)]
-
-
-
-
-
-</details>
-
-
-
 ## Image-based_PDD
 <details open>
 <summary>Details</summary>
@@ -161,6 +115,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 ### 2023
 
+- <a name=""></a>**[GEARS]** Predicting transcriptional outcomes of novel multigene perturbations with GEARS (**Nature Biotechnology**) [[paper](https://www.nature.com/articles/s41587-023-01905-6)] [[code](https://github.com/snap-stanford/GEARS)]![GitHub stars](https://img.shields.io/github/stars/snap-stanford/GEARS.svg?logo=github&label=Stars)
+
 - <a name=""></a>**[SCAD]** Enabling Single-Cell Drug Response Annotations from Bulk RNA-Seq Using SCAD (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202204113)] [[code](https://github.com/CompBioT/SCAD)]![GitHub stars](https://img.shields.io/github/stars/CompBioT/SCAD.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[ASGARD]** ASGARD is A Single-cell Guided Pipeline to Aid Repurposing of Drugs (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-36637-3)] [[code](https://github.com/lanagarmire/ASGARD)]![GitHub stars](https://img.shields.io/github/stars/lanagarmire/ASGARD.svg?logo=github&label=Stars)
@@ -220,6 +176,55 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a> **[Multimodal deep learning]** Capturing single-cell heterogeneity via data fusion improves image-based profiling (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-019-10154-8)] [[code](https://github.com/carpenterlab/2018_Rohban_NatComm)]![GitHub stars](https://img.shields.io/github/stars/carpenterlab/2018_Rohban_NatComm.svg?logo=github&label=Stars)
 
 </details>
+
+
+
+## De_Novo_Drug_Design
+<details open>
+<summary>Details</summary>
+
+### 2025
+
+- <a name=""></a>**[SketchMol]** Image-based generation for molecule design with SketchMol (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-025-00982-3)][[code](https://github.com/WangZiXubiubiu/SketchMol-v1)]![GitHub stars](https://img.shields.io/github/stars/WangZiXubiubiu/SketchMol-v1.svg?logo=github&label=Stars)
+
+
+### 2024
+
+- <a name=""></a>**[GeminiMol]** Conformational Space Profiling Enhances Generic Molecular Representation for AI-Powered Ligand-Based Drug Discovery (**Advanced Science**) [[paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202403998)] [[code](https://github.com/Wang-Lin-boop/GeminiMol)]![GitHub stars](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[GFlowNets]** Cell Morphology-Guided Small Molecule Generation with GFlowNets (**ICML 2024**) [[paper](https://arxiv.org/abs/2408.05196)]
+
+- <a name=""></a>**[Survey]** From Intuition to AI: Evolution of Small Molecule Representations in Drug Discovery (**BIB**) [[paper](https://academic.oup.com/bib/article/25/1/bbad422/7455245)]
+
+- <a name=""></a>**[Survey]** A survey of generative AI for de novo drug design: new frontiers in molecule and protein generation (**BIB**) [[paper](https://academic.oup.com/bib/article/25/4/bbae338/7713723)][[code](https://github.com/gersteinlab/GenAI4Drug)]![GitHub stars](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[TransGEM]** TransGEM: a molecule generation model based on Transformer with gene expression data (**BIB**) [[paper](https://academic.oup.com/bioinformatics/article/40/5/btae189/7649318)] [[code](https://github.com/hzauzqy/TransGEM)]![GitHub stars](https://img.shields.io/github/stars/hzauzqy/TransGEM.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[Gx2Mol]** Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning (**BioRxiv**) [[paper](https://arxiv.org/abs/2412.19422)] [[code](https://github.com/naruto7283/Gx2Mol)]![GitHub stars](https://img.shields.io/github/stars/naruto7283/Gx2Mol.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[CPMolGAN]** Cell morphology-guided de novo hit design by conditioning GANs on phenotypic image features (**Digital Discovery**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00081d)] [[code](https://github.com/Bayer-Group/CPMolGAN)]![GitHub stars](https://img.shields.io/github/stars/Bayer-Group/CPMolGAN.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[GexMolGen]** GexMolGen: cross-modal generation of hit-like molecules via large language model encoding of gene expression signatures (**BIB**) [[paper](https://academic.oup.com/bib/article/25/6/bbae525/7845937)] [[code](https://github.com/Bunnybeibei/GexMolGen)]![GitHub stars](https://img.shields.io/github/stars/Bunnybeibei/GexMolGen.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[Gex2SGen]** Gex2SGen: Designing Drug-like Molecules from Desired Gene Expression Signatures (**Journal of Chemical Information and Modeling**) [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01301?ref=pdf)]
+
+- <a name=""></a>**[Survey]** Diffusion Models in De Novo Drug Design (**Journal of Chemical Information and Modeling**) [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01107)]
+
+
+### 2023
+
+- <a name=""></a>**[KPGT]** A Knowledge-Guided Pre-training Framework for Improving Molecular Representation Learning (**nature communications**) [[paper](https://www.nature.com/articles/s41467-023-43214-1)][[code](https://github.com/lihan97/KPGT)]![GitHub stars](https://img.shields.io/github/stars/lihan97/KPGT.svg?logo=github&label=Stars)
+
+- <a name=""></a>**[Survey]** Graph neural networks for conditional de novo drug design (**Wiley Interdisciplinary Reviews: Computational Molecular Science**) [[paper](https://wires.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcms.1651)]
+
+
+
+
+
+</details>
+
+
+
 
 
 ## Multi-channel_Image_Processing
