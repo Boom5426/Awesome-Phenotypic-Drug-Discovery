@@ -59,7 +59,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 ### 2025
 
-- <a name=""></a>**[CellFlow_CP]** CellFlow: Simulating Cellular Morphology Changes via Flow Matching (**Arxiv 2025**) [[paper](https://arxiv.org/pdf/2502.09775)] [[code](https://github.com/yuhui-zh15/CellFlux)]![GitHub stars](https://img.shields.io/github/stars/yuhui-zh15/CellFlux.svg?logo=github&label=Stars)
+- <a name=""></a>**[CellFlux]** CellFlux: Simulating Cellular Morphology Changes via Flow Matching (**Arxiv 2025**) [[paper](https://arxiv.org/pdf/2502.09775)] [[code](https://github.com/yuhui-zh15/CellFlux)]![GitHub stars](https://img.shields.io/github/stars/yuhui-zh15/CellFlux.svg?logo=github&label=Stars)
 
  - <a name=""></a>**[IMPA]** Predicting cell morphological responses to perturbations using generative modeling (**Nature Communications 2025**) [[paper](https://www.nature.com/articles/s41467-024-55707-8)] [[code](https://github.com/theislab/IMPA)]![GitHub stars](https://img.shields.io/github/stars/theislab/IMPA.svg?logo=github&label=Stars)
  
