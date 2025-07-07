@@ -63,8 +63,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### 2025
 
 
-- <a name=""></a>**[MINER]** Multi-modal Contrastive Learning with Negative Sampling Calibration for Phenotypic Drug Discovery (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Rao_Multi-modal_Contrastive_Learning_with_Negative_Sampling_Calibration_for_Phenotypic_Drug_CVPR_2025_paper.pdf)]
-
+- <a name=""></a>**[MINER]** Multi-modal Contrastive Learning with Negative Sampling Calibration for Phenotypic Drug Discovery (**CVPR 2025**) [[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Rao_Multi-modal_Contrastive_Learning_with_Negative_Sampling_Calibration_for_Phenotypic_Drug_CVPR_2025_paper.pdf)][[code](https://github.com/biomed-AI/MINER)]![GitHub stars](https://img.shields.io/github/stars/biomed-AI/MINER.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[CellFlux]** CellFlux: Simulating Cellular Morphology Changes via Flow Matching (**ICML 2025**) [[paper](https://arxiv.org/pdf/2502.09775)] [[code](https://github.com/yuhui-zh15/CellFlux)]![GitHub stars](https://img.shields.io/github/stars/yuhui-zh15/CellFlux.svg?logo=github&label=Stars)
 
