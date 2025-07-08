@@ -69,7 +69,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
  - <a name=""></a>**[IMPA]** Predicting cell morphological responses to perturbations using generative modeling (**Nature Communications 2025**) [[paper](https://www.nature.com/articles/s41467-024-55707-8)] [[code](https://github.com/theislab/IMPA)]![GitHub stars](https://img.shields.io/github/stars/theislab/IMPA.svg?logo=github&label=Stars)
  
-- <a name=""></a>**[MorphoDiff]** MorphoDiff: Cellular Morphology Painting with Diffusion Models (**ICLR 2025**) [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619752v1)] [[code](https://github.com/bowang-lab/MorphoDiff)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/MorphoDiff.svg?logo=github&label=Stars)
+- <a name=""></a>**[MorphoDiff]** MorphoDiff: Cellular Morphology Painting with Diffusion Models (**ICLR 2025**) [[paper](https://openreview.net/pdf?id=PstM8YfhvI)] [[code](https://github.com/bowang-lab/MorphoDiff)]![GitHub stars](https://img.shields.io/github/stars/bowang-lab/MorphoDiff.svg?logo=github&label=Stars)
 
 
 
