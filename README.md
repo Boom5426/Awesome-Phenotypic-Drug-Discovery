@@ -33,6 +33,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 - <a name=""></a>**[Broad Bioimage Benchmark Collection]** [[Link](https://bbbc.broadinstitute.org/)] [[Paper](https://www.nature.com/articles/nmeth.2083)]
 - <a name=""></a>**[Image Data Resource (IDR)]** [[Link](https://idr.openmicroscopy.org/)]
 - <a name=""></a>**[NYSCF Automated Deep Phenotyping Dataset (ADPD)]** [[Link](https://nyscf.org/open-source/nyscf-adpd/)]
+- <a name=""></a>**[RxRx from Recursion]** [[Link](https://www.rxrx.ai/datasets)]
 
 
 # Tools
