@@ -115,6 +115,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 ### 2024
 
+- <a name=""></a>**[GEARS]** Predicting transcriptional outcomes of novel multigene perturbations with GEARS (**Nature Biotechnology**) [[paper](https://www.nature.com/articles/s41587-023-01905-6)] [[code](https://github.com/snap-stanford/GEARS)]![GitHub stars](https://img.shields.io/github/stars/snap-stanford/GEARS.svg?logo=github&label=Stars)
+ 
 - <a name=""></a>**[TranSiGen]** Deep representation learning of chemical-induced transcriptional profile for phenotype-based drug discovery (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-49620-3)] [[code](https://github.com/myzhengSIMM/TranSiGen)]![GitHub stars](https://img.shields.io/github/stars/myzhengSIMM/TranSiGen.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[PRnet]** Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-024-53457-1)] [[code](https://github.com/Perturbation-Response-Prediction/PRnet)]![GitHub stars](https://img.shields.io/github/stars/Perturbation-Response-Prediction/PRnet.svg?logo=github&label=Stars)
@@ -125,9 +127,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[PERCEPTION]** PERCEPTION predicts patient response and resistance to treatment using single-cell transcriptomics of their tumors (**Nature Cancer**) [[paper](https://www.nature.com/articles/s43018-024-00756-7)] [[code](https://github.com/ruppinlab/PERCEPTION)]![GitHub stars](https://img.shields.io/github/stars/ruppinlab/PERCEPTION.svg?logo=github&label=Stars)
 
+
 ### 2023
 
-- <a name=""></a>**[GEARS]** Predicting transcriptional outcomes of novel multigene perturbations with GEARS (**Nature Biotechnology**) [[paper](https://www.nature.com/articles/s41587-023-01905-6)] [[code](https://github.com/snap-stanford/GEARS)]![GitHub stars](https://img.shields.io/github/stars/snap-stanford/GEARS.svg?logo=github&label=Stars)
 
 - <a name=""></a>**[SCAD]** Enabling Single-Cell Drug Response Annotations from Bulk RNA-Seq Using SCAD (**Advanced Science**) [[paper](https://onlinelibrary.wiley.com/doi/10.1002/advs.202204113)] [[code](https://github.com/CompBioT/SCAD)]![GitHub stars](https://img.shields.io/github/stars/CompBioT/SCAD.svg?logo=github&label=Stars)
 
