@@ -155,6 +155,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 <details open>
 <summary>Details</summary>
 
+- <a name=""></a>**[InfoAlign]** Learning Molecular Representation in a Cell (**ICLR 2025**) [[paper](https://openreview.net/forum?id=BbZy8nI1si)] [[code](https://github.com/liugangcode/InfoAlign)]![GitHub stars](https://img.shields.io/github/stars/liugangcode/InfoAlign.svg?logo=github&label=Stars)
+
 ### 2024
 
 - <a name=""></a>**[Datasets]** JUMP Cell Painting dataset: morphological impact of 136,000 chemical and genetic perturbations (**Arxiv**) [[paper](https://www.biorxiv.org/content/10.1101/2023.03.23.534023v2)] [[dataset](https://registry.opendata.aws/cellpainting-gallery/)]
@@ -167,7 +169,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 
 - <a name=""></a>**[cmQTL]** High-dimensional phenotyping to define the genetic basis of cellular morphology (**Nature Communications**) [[paper](https://www.nature.com/articles/s41467-023-44045-w)] [[code](https://github.com/broadinstitute/cmQTL)]![GitHub stars](https://img.shields.io/github/stars/broadinstitute/cmQTL.svg?logo=github&label=Stars)
 
-- <a name=""></a>**[InfoAlign]** Learning Molecular Representation in a Cell (**Arxiv**) [[paper](https://arxiv.org/abs/2406.12056)] [[code](https://github.com/liugangcode/InfoAlign)]![GitHub stars](https://img.shields.io/github/stars/liugangcode/InfoAlign.svg?logo=github&label=Stars)
 
 ### 2023
  
