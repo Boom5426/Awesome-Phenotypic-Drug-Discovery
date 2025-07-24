@@ -21,7 +21,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 # Survey
 - <a name=""></a>**[2024]** Cell Painting: a decade of discovery and innovation in cellular imaging (**Nature Methods**) [[paper](https://www.nature.com/articles/s41592-024-02528-8)]
 - <a name=""></a>**[2024]** Morphological profiling for drug discovery in the era of deep learning (**Briefings in Bioinformatics**) [[paper](https://academic.oup.com/bib/article/25/4/bbae284/7693952)] [[中文解读](https://zhuanlan.zhihu.com/p/708163198?utm_campaign=shareopn&utm_medium=social&utm_psn=1822807077606780929&utm_source=wechat_session)] 
-- <a name=""></a>**[2024]** Artificial intelligence for high content imaging in drug discovery (**Current Opinion in Structural Biology**) [[paper](https://www.nature.com/articles/s41467-024-45999-1)]
+- <a name=""></a>**[2024]** Artificial intelligence for high content imaging in drug discovery (**Current Opinion in Structural Biology**) [[paper](https://www.sciencedirect.com/science/article/pii/S0959440X24000691)]
 - <a name=""></a>**[2023]** Deep learning in image-based phenotypic drug discovery (**Trends in Cell Biology**) [[paper](https://www.cell.com/trends/cell-biology/abstract/S0962-8924(22)00262-8)]
 - <a name=""></a>**[2022]** Phenotypic drug discovery: recent successes, lessons learned and new directions (**Nature Reviews Drug Discovery**) [[paper](https://www.nature.com/articles/s41573-022-00472-w)]
 - <a name=""></a>**[2020]** Image-based profiling for drug discovery: due for a machine-learning upgrade? (**Nature Reviews Drug Discovery**) [[paper](https://www.nature.com/articles/s41573-020-00117-w)]
