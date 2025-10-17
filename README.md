@@ -7,6 +7,9 @@ In drug discovery, phenotypic typically refers to the observable characteristics
 In Phenotypic Drug Discovery (PDD), researchers evaluate the effects and potential therapeutic mechanisms of drugs by observing and analyzing these phenotypic changes.
 ```
 
+## News: We have partially merged this repository into [[**Awesome-Virtual-Cell**](https://github.com/Boom5426/Awesome-Virtual-Cell)]![GitHub stars](https://img.shields.io/github/stars/Boom5426/Awesome-Virtual-Cell.svg?logo=github&label=Stars). Please follow the new repository.
+
+
 ## Papers
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories:
